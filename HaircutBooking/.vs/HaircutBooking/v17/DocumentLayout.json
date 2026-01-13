@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\data\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\data\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\haircutbooking.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\haircutbooking.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\migrations\\20251127105216_addmoreservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\migrations\\20251127105216_addmoreservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\migrations\\20251126222532_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\migrations\\20251126222532_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\haircutbooking.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\haircutbooking.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\migrations\\20251127135846_initialcreatewithusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\migrations\\20251127135846_initialcreatewithusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|c:\\users\\user\\source\\repos\\haircutbookingfullstack\\haircutbooking\\haircutbooking\\migrations\\20251127135610_addingauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD8FB83-C865-47DC-A798-8A3238BF8529}|HaircutBooking\\HaircutBooking.csproj|solutionrelative:haircutbooking\\migrations\\20251127135610_addingauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Program.cs",
+              "RelativeDocumentMoniker": "HaircutBooking\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Program.cs",
+              "RelativeToolTip": "HaircutBooking\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:14:34.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HaircutBooking\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Models\\Appointment.cs",
+              "RelativeToolTip": "HaircutBooking\\Models\\Appointment.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:36:26.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "HaircutBooking\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Models\\Service.cs",
+              "RelativeToolTip": "HaircutBooking\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:18:46.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Data\\BookingContext.cs",
+              "RelativeDocumentMoniker": "HaircutBooking\\Data\\BookingContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Data\\BookingContext.cs",
+              "RelativeToolTip": "HaircutBooking\\Data\\BookingContext.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAQwKUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:24:17.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "HaircutBooking\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "HaircutBooking\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:32:22.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HaircutBooking\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HaircutBooking\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:22:41.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HaircutBooking.http",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\HaircutBooking.http",
+              "RelativeDocumentMoniker": "HaircutBooking\\HaircutBooking.http",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\HaircutBooking.http",
+              "RelativeToolTip": "HaircutBooking\\HaircutBooking.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-27T15:25:15.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\appsettings.json",
+              "RelativeDocumentMoniker": "HaircutBooking\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\appsettings.json",
+              "RelativeToolTip": "HaircutBooking\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T22:22:15.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "HaircutBooking\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "HaircutBooking\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAA9wP8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:51:55.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251127135846_InitialCreateWithUsers.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Migrations\\20251127135846_InitialCreateWithUsers.cs",
+              "RelativeDocumentMoniker": "HaircutBooking\\Migrations\\20251127135846_InitialCreateWithUsers.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Migrations\\20251127135846_InitialCreateWithUsers.cs",
+              "RelativeToolTip": "HaircutBooking\\Migrations\\20251127135846_InitialCreateWithUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:58:46.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251127135610_addingAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Migrations\\20251127135610_addingAuthentication.cs",
+              "RelativeDocumentMoniker": "HaircutBooking\\Migrations\\20251127135610_addingAuthentication.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Migrations\\20251127135610_addingAuthentication.cs",
+              "RelativeToolTip": "HaircutBooking\\Migrations\\20251127135610_addingAuthentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:56:10.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "HaircutBooking\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "HaircutBooking\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:21:02.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "HaircutBooking\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "HaircutBooking\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:20:20.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HaircutBooking\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Models\\User.cs",
+              "RelativeToolTip": "HaircutBooking\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:18:15.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251127105216_addmoreservices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Migrations\\20251127105216_addmoreservices.cs",
+              "RelativeDocumentMoniker": "HaircutBooking\\Migrations\\20251127105216_addmoreservices.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Migrations\\20251127105216_addmoreservices.cs",
+              "RelativeToolTip": "HaircutBooking\\Migrations\\20251127105216_addmoreservices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:52:16.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20251126222532_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Migrations\\20251126222532_initialCreate.cs",
+              "RelativeDocumentMoniker": "HaircutBooking\\Migrations\\20251126222532_initialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\Migrations\\20251126222532_initialCreate.cs",
+              "RelativeToolTip": "HaircutBooking\\Migrations\\20251126222532_initialCreate.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:25:33.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HaircutBooking",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\HaircutBooking.csproj",
+              "RelativeDocumentMoniker": "HaircutBooking\\HaircutBooking.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HaircutBookingFullStack\\HaircutBooking\\HaircutBooking\\HaircutBooking.csproj",
+              "RelativeToolTip": "HaircutBooking\\HaircutBooking.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T21:13:36.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
